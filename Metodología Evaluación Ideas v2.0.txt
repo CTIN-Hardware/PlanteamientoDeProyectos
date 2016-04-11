@@ -33,46 +33,19 @@ Campos
 	Posición 3
 	Suelo
 	Tamaño
-	
-
-	
-
-	
-
-	
 
 	Experiencia (Tiempo)
 	
 
-	
-
-	
-
-	
 
 	País
-	
-
-	
-
-	
-
 	
 
 	Precio
 	
 
-	
-
-	
-
-	
 
 	Ingresos
-	
-
-	
-
 	
 
 	
