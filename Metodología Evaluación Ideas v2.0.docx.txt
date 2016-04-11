@@ -1,0 +1,124 @@
+﻿Nombre de la Idea:______________________
+
+
+¿Qué problema/situación/cuestión se pretende resolver?
+Describe brevemente el problema que el proyecto pretende abordar.
+
+
+¿Para qué target se orienta tu idea?
+Describe el perfil de tu usuario brevemente. Incluye datos socioeconómicos, rangos de edades, intereses, salud o cualquier otro rasgo que defina a tu target. Emplea sólamente información que describa a tu target cualitativamente más que cuantitativamente.
+
+
+¿Cuál es el alcance de tu target?
+Describe el tamaño de tu target. Sí por ejemplo, tu target son ancianas de 90 años con displasia de cadera y que además les gusta ver netflix, el alcance de dicho target (con base a encuestas, datos e incluso estimaciones) son 5,000 personas para dicho perfil.
+
+
+Describe tu Idea.
+Describe brevemente la idea la cual resuelve el problema que describiste.
+
+
+¿Cuál es la hipótesis en la que se basa tu idea?
+Describe brevemente el supuesto en el cual te estás basando. Por ejemplo si quiero crear un app para pobres para que puedan acceder a bancos de alimentos cercanos, mi hipótesis es que los pobres cuentan con un smartphone de gama baja.
+
+
+Benchmark
+Realiza una investigación de competidores. Coloca las tres mejores coincidencias con tu idea, y además que tengan éxito. Así mismo investiga un competidor extra el cual haya tenido fracaso con una propuesta similar a tu idea, en caso de no encontrar, hallar el competidor con menor desempeño. Procura utilizar palabras clave.
+
+
+
+
+Campos
+	Posición 1
+	Posición 2
+	Posición 3
+	Suelo
+	Tamaño
+	
+
+	
+
+	
+
+	
+
+	Experiencia (Tiempo)
+	
+
+	
+
+	
+
+	
+
+	País
+	
+
+	
+
+	
+
+	
+
+	Precio
+	
+
+	
+
+	
+
+	
+
+	Ingresos
+	
+
+	
+
+	
+
+	
+
+	Características
+	
+
+	
+
+	
+
+	
+
+	¿Por qué?
+	
+
+	
+
+	
+
+	
+
+	Modelo de Negocios
+	
+
+	
+
+	
+
+	
+
+	Tamaño: Qué tanta participación en el mercado tiene (acotar por mucha, media, poca), Precio: Precio del producto o servicio similar a tu idea, Ingresos: Estimación de ingresos anuales (o en su caso mensuales) del producto o servicio en cuestión, Características: Menciona las 2 características más importantes del producto o servicio de tus competidores (usa palabras clave), ¿Por qué?: usa palabras clave de por qué tiene éxito o fracaso, Modelo de Negocios: Menciona en palabras clave la descripción de su modelo por ejemplo leasing, venta, licencia, comisión, etc.
+
+
+Feedback
+En resúmen, anota las observaciones de tus compañeros hacia tu idea (5 a 10). Recuerda que su área de expertise debe de relacionarse con tu idea.
+
+
+Número de Likes: 
+Desarrolla en un enunciado tipo tweet (menos de 150 caracteres) la descripción de tu idea.  
+                                                Ejemplo
+Para ___________ (Target)                        Para no diseñadores
+que ____________ (Oportunidad)                que quieran diseñar una web sin programar
+________________ (Nombre)                Squarespace
+es _____________ (Categoría)                es una plataforma de construcción web
+que ____________ (beneficio)                que crea sitios web de manera increíble yfácil.
+
+
+A continuación copia y pega tu enunciado en un comment dentro del grupo ctin mx y espera los likes, daremos fechas para dicha actividad. Terminando la actividad anota el número de likes que se obtuvieron.
